@@ -222,7 +222,7 @@ section .button button{
 section .button button:hover{
   border-color: #fbc325;
   background-color: #fbc325;
-  color: #000000;
+  color: #fff;
 }
  .skills{
    background: #1a1a18;

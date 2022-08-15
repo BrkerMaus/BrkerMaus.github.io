@@ -93,7 +93,7 @@ nav .menu-btn,
   display: none;
 }
 nav .menu-btn{
-  color: #4070f4;
+  color: #fbc325;
 }
 nav.sticky .menu-btn{
   color: #FFF;
@@ -355,7 +355,7 @@ footer .text span a:hover{
   bottom: 20px;
   right: 20px;
   color: #fff;
-  background: #4070f4;
+  background: #fbc325;
   padding: 7px 12px;;
   font-size: 18px;
   border-radius: 6px;
@@ -421,7 +421,7 @@ footer .text span a:hover{
     margin: 10px 0;
   }
   nav.sticky .menu a:hover{
-    color: #4070f4;
+    color: #fbc325;
   }
   nav .navbar .media-icons{
     display: none;
@@ -468,6 +468,6 @@ footer .text span a:hover{
   }
   .skills-details .boxes .per{
     font-size: 50px;
-    color: #4070f4;
+    color: #fbc325;
   }
 }
